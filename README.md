@@ -1,16 +1,18 @@
-# todo_app
+# Todo App
 
-A new Flutter project.
 
-## Getting Started
+## Feature
+Cho phép người dùng tạo, chỉnh sửa, xoá và thay đổi thứ tự các task
 
-This project is a starting point for a Flutter application.
+## Giao diện
+Màn hình Home:
+![home](https://github.com/dinkmsd/todo_app/assets/85824110/3012c9fc-59fb-42ed-9415-9d832e57fd17)
+Màn hình Add task:
+![add](https://github.com/dinkmsd/todo_app/assets/85824110/d2b8deb5-5da4-4890-a7d3-87508fbd2029)
+Màn hình Edit Task:
+![edit](https://github.com/dinkmsd/todo_app/assets/85824110/09fec5d3-49b5-4d36-b325-b3d949dbe186)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cài đặt
+### 1. Clone project này (git clone https://github.com/dinkmsd/todo_app.git)
+### 2. Cd vào file thư mục của project (cd todo_app)
+### 3. Chạy lệnh `flutter run -d chrome` để chạy ứng dụng trên web brower Chrome
